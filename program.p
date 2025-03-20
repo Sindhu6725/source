@@ -14,3 +14,10 @@ n=int(input("Enter the number"))
 s=n*n
 print(s)
 
+
+pi=3.14
+print("Enter the value of radius")
+r=int(input())
+area=pi*r*r
+print(area)
+
