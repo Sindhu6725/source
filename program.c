@@ -10,3 +10,7 @@ case2:
 	{
 		printf(Btech AIML);
 	}
+case3:
+	{
+		printf(ECE);
+	}
