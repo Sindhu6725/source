@@ -16,3 +16,12 @@ print(c)
 else:
 print("b should be greater than 1")
 
+
+
+
+
+i=5
+while(i<=100):
+i%5==0
+print(i)
+i+=5
