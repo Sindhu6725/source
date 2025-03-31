@@ -1,0 +1,7 @@
+food=(input("Enter the Menu"))
+if(food=="cofee"):
+print("Morning drink")
+elif(food=="breakfast")
+print("Idli")
+else:
+print("vegetables")
