@@ -1,0 +1,5 @@
+pin=int(input("Enter the pin"))
+if(pin==56123);
+print("valid")
+elif(pin!=56123):
+print("invalid")
