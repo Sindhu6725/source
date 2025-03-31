@@ -1,0 +1,4 @@
+def find_largest(lst):
+return max(lst)
+numbers = list(map(int,input("Enter numbers separated by spaces:").split()))
+print("Largest number:",find_largest(numbders))
