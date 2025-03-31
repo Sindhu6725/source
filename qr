@@ -1,0 +1,7 @@
+import qrcode
+def generate_qr(text):
+qr = qrcode.make(text)
+qr.save("qrcode.png")
+print("Qr code saved as qrcode.png")
+text = input("Enter text/URL for QR code:")
+generate_qr(text)
