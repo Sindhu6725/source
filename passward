@@ -1,0 +1,6 @@
+import random
+import string 
+length = int(input("Enter passward length:"))
+characters = string.ascii_letters + string.digits + string.punctuation
+passward = ".join(random.choice(characters) for i in range(length))
+print("Generated passward:",passward)
