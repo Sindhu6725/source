@@ -25,3 +25,9 @@ i += 1
 k += 1
 while j < n2:
 arr[k] = R[j]
+j += 1
+k += 1
+
+def mergeSort(arr, l, r):
+if l < r:
+m = l + (r - l) // 2
