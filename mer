@@ -9,3 +9,6 @@ for j in range(0, n2):
 R[j] = arr[m + 1 + j]
 i = 0
 j = 0
+k = l
+
+while i < n1 and j < n2:
