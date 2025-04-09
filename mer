@@ -19,3 +19,8 @@ else:
 arr[k] = R[j]
 j += 1
 k += 1
+while i < n1:
+arr[k] = L[i]
+i += 1
+k += 1
+
