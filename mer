@@ -7,4 +7,5 @@ for i in range(0, n1):
 L[i] = arr[l + i]
 for j in range(0, n2):
 R[j] = arr[m + 1 + j]
-
+i = 0
+j = 0
