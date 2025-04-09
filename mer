@@ -23,4 +23,5 @@ while i < n1:
 arr[k] = L[i]
 i += 1
 k += 1
-
+while j < n2:
+arr[k] = R[j]
