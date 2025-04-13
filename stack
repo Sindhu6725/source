@@ -11,3 +11,6 @@ def pop(self):
 	    def peek(self):
         if not self.is_empty():
             return self.stack[-1]
+	     else:
+            return "Stack is empty"
+
