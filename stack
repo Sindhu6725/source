@@ -3,4 +3,8 @@ class Stack:
         self.stack = []
 	def push(self, item):
         self.stack.append(item)
-
+def pop(self):
+        if not self.is_empty():
+            return self.stack.pop()
+        else:
+            return "Stack is empty"
