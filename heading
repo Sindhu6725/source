@@ -11,3 +11,5 @@ FILE *fptr;
     }
 printf("Enter text to write to file: ");
     fgets(text, sizeof(text), stdin);
+    fprintf(fptr, "%s", text);
+    fclose(fptr);
