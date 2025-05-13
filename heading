@@ -9,4 +9,5 @@ FILE *fptr;
         printf("Error opening file for writing.\n");
 	 return 1;
     }
-
+printf("Enter text to write to file: ");
+    fgets(text, sizeof(text), stdin);
