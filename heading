@@ -21,3 +21,5 @@ printf("Enter text to write to file: ");
 	 }
 
     printf("Reading from file:\n");
+    while (fgets(text, sizeof(text), fptr)) {
+        printf("%s", text);
