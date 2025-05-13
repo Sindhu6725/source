@@ -5,3 +5,5 @@ FILE *fptr;
     char filename[] = "sample.txt";
      char text[100];
  fptr = fopen(filename, "w");
+ if (fptr == NULL) {
+        printf("Error opening file for writing.\n");
