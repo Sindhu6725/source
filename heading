@@ -18,3 +18,6 @@ printf("Enter text to write to file: ");
     if (fptr == NULL) {
  printf("Error opening file for reading.\n");
         return 1;
+	 }
+
+    printf("Reading from file:\n");
