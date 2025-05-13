@@ -16,4 +16,5 @@ printf("Enter text to write to file: ");
      printf("Text written to %s successfully.\n", filename);
  fptr = fopen(filename, "r");  // Open for reading
     if (fptr == NULL) {
-
+ printf("Error opening file for reading.\n");
+        return 1;
