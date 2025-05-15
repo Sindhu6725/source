@@ -8,3 +8,5 @@ public static void main(String[] args) {
 	 int b = input.nextInt();
 
         int lcm = (a * b) / gcd(a, b);
+	System.out.println("LCM is: " + lcm);
+    }
