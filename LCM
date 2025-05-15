@@ -10,3 +10,5 @@ public static void main(String[] args) {
         int lcm = (a * b) / gcd(a, b);
 	System.out.println("LCM is: " + lcm);
     }
+    static int gcd(int x, int y) {
+        while (y != 0) {
