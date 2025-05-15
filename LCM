@@ -14,3 +14,5 @@ public static void main(String[] args) {
         while (y != 0) {
 	 int temp = y;
             y = x % y;
+	     x = temp;
+        }
