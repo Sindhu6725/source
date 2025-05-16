@@ -1,6 +1,9 @@
 AUB
 AMITY
 BTECH
+CSE
 AIML
 BENGALURU
-devanahalli
+University
+Test1 
+Test2
