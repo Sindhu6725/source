@@ -5,6 +5,7 @@ CSE
 AIML
 BENGALURU
 University
-DEvanahalli
+EC
+Dept
 Test1 
 Test2
