@@ -1,8 +1,6 @@
 AUB
 AMITY
 BTECH
-CSE
-AIML
 BENGALURU
 University
 EC
