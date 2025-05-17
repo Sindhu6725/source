@@ -1,4 +1,5 @@
 def is_armstrong(n):
 order = len(str(n))
 return n ==sum(int(digit)**order for digit in str(n))
-num =  
+num = int(input("Enter a number:"))
+ 
