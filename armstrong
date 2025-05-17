@@ -1,2 +1,3 @@
 def is_armstrong(n):
+order = len(str(n))
 
