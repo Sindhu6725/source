@@ -1,1 +1,2 @@
-length = 
+length =  float(input("Enter length:"))
+
