@@ -1,2 +1,2 @@
 length =  float(input("Enter length:"))
-
+width = 
