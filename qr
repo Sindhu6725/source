@@ -1,3 +1,4 @@
 import qrcode
 def generate_qr(text):
+qr = qrcode.make(text)
 
