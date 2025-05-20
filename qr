@@ -3,4 +3,4 @@ def generate_qr(text):
 qr = qrcode.make(text)
 qr.save("qrcode.png")
 print("Qr code saved as qrcode.png")
-text = input
+text = input("Enter text/URL for QR code:")
