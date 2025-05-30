@@ -1,2 +1,2 @@
 num = int(input("Enter a number:"))
-print("Cube:",num**3)
+prinauhuhit("Cubef34we:",num**3)
